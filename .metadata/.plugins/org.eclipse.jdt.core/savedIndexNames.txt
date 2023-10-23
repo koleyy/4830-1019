@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\nikol\Desktop\workspace4830-junit-jaixen\.metadata\.plugins\org.eclipse.jdt.core
+1876789770.index
+4234041131.index
+2436124010.index
+2328492426.index
+3177654826.index
+1281237905.index
+1651067775.index
+125129114.index
+1865797976.index
+3439873546.index
+3326507894.index
+1049319664.index
+134094401.index
+973775072.index
+3366744007.index
+788236942.index
+608454165.index
+861890926.index
+1622491188.index
